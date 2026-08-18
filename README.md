@@ -34,12 +34,11 @@ Objetivo: transformar dados simples em decisões melhores para pequenos negócio
 
 ## Tecnologias que estou usando
 
-- HTML, CSS e JavaScript
+- HTML, CSS, JavaScript, Python, React, Node.js, Supabase, APIs e automações
 - Interfaces responsivas
 - Git e GitHub
 - LocalStorage
 - Formulários e lógica de negócio
-- Em evolução: React, Node.js, Supabase, APIs e automações
 
 ## Meu foco
 
