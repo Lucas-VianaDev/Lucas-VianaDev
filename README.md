@@ -57,4 +57,4 @@ Meu objetivo é unir desenvolvimento com visão de negócio. Não quero criar ap
 - LinkedIn: [linkedin.com/in/lucas-goncalves-viana](https://www.linkedin.com/in/lucas-goncalves-viana/)
 - Email: lucasgonviana0@gmail.com
 - WhatsApp: 11 93214-7412
-- Portfólio: em breve
+- Portfólio: https://portfolio-lucas-viana.vercel.app/
